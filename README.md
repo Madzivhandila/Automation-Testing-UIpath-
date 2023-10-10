@@ -9,6 +9,8 @@ Testing is a critical aspect of any solution, and it can be approached from vari
 Robotic Process Automation (RPA) involves using technology to replicate human tasks, particularly those related to front-end or User Interface (UI) automation. RPA is commonly used to automate repetitive and time-consuming tasks, freeing up human resources to focus on more complex and creative tasks.
 
 In the context of the web application developed in Project 3, before deploying it to production, it must undergo UAT. During UAT, a team of testers works with a test dataset containing input and expected output data. Testers input each dataset record into the web application's fields and verify that the expected output is generated. In this case, the expected output would be a new record displayed on the web application after adding the item. Automating this highly repetitive process with RPA is both efficient and recommended.
+![Rpa-Robotic-Process-Automation-300641923-1024x656-1](https://github.com/Madzivhandila/CMPG-323-Project-4---30332338/assets/75025282/cd9a2b79-c586-4a08-a332-db2053d28463)
+
 **************************************************************************************************
 ## Requirements
 **************************************************************************************************
