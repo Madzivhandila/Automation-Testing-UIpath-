@@ -1,5 +1,6 @@
 # CMPG-323-Project-4---30332338 README FILE
-![uipath2](https://github.com/Madzivhandila/CMPG-323-Project-4---30332338/assets/75025282/1a88361d-4c5d-4e0b-a05c-78ac9c4156c4)
+ ![uipath](https://github.com/Madzivhandila/CMPG-323-Project-4---30332338/assets/75025282/03f65575-8b45-485a-b62b-3756486f34f5)
+
 
 ## Overview
 Testing is a critical aspect of any solution, and it can be approached from various perspectives, including internal development team testing and business user acceptance testing (UAT). User Acceptance Testing, often referred to as UAT, plays a pivotal role in most development lifecycles as it serves as the ultimate 'go/no-go' decision point. UAT is primarily concerned with ensuring that the input provided to a solution yields the expected output. If the solution does not produce the desired output, it must be adjusted and retested before it can proceed to production.
