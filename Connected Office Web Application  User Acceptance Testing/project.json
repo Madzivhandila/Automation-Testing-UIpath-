@@ -1,6 +1,6 @@
 {
   "name": "Connected Office Web Application  User Acceptance Testing",
-  "projectId": "8065a163-a752-4851-810c-b24b3dea9536",
+  "projectId": "a1c2421c-854f-4b13-958a-1dcba6a313f1",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -47,11 +47,11 @@
     "modernBehavior": true,
     "saveToCloud": false
   },
-  "expressionLanguage": "CSharp",
+  "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "b3d15ea8-355f-48b5-8f6f-9d9a352750fa",
+      "uniqueId": "645ba2a0-3d5b-4529-b9de-81349e610e21",
       "input": [],
       "output": []
     }

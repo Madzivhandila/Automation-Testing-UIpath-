@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+6rRlC3zhHU1MwMbSKYoTQaMxD4UgGzB3A5RaZtm6CVbTOrUgvYTtElQbUQwujm76ZqCywVQ2L6bU7soyflNIQ==",
+  "dgSpecHash": "+EDJyXxCPbvDVZMd0Ny6D9oYkzMN04QopK/UymYh/82NsyKKxOQ6G7wSTXPehtHUigpDTALanTvcB5LWiB63/w==",
   "success": true,
-  "projectFilePath": "E:\\cmpg323\\CMPG-323-Project-4---30332338\\Connected Office Web Application  User Acceptance Testing\\.local\\",
+  "projectFilePath": "C:\\Users\\itstudent\\Desktop\\CMPG-323-Project-4---30332338\\Connected Office Web Application  User Acceptance Testing\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\itstudent\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\itstudent\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
