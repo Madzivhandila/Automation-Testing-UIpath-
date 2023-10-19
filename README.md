@@ -72,18 +72,23 @@ Non-functional requirements encompass aspects of a solution that impact the syst
 
 3. Advanced UI Automation in Studio
 
-
+4.Coded Automation for Testing
 
 
 
 ### Referancing
 **************************************************************************************************
 
-
-
-
-
-
+1. 14 September Weekly Virtual Class Automation Introduction (2023) YouTube. Available at: https://www.youtube.com/watch?v=wi18JuLhZ74&amp;t=2420s (Accessed: 19 October 2023). 
+2. RPA Uipath full course | RPA uipath tutorial for beginners | RPA course | RPA tutorial | Simplilearn (2021) YouTube. Available at: https://www.youtube.com/watch?v=kg15yZiBGxE (Accessed: 19 October 2023). 
+3. RPA: What is RPA | did you know RPA | RPA tutorial | what is robotic process automation how it works (2022) YouTube. Available at: https://www.youtube.com/watch?v=hrgcnFBVmYA (Accessed: 19 October 2023). 
+4. How to generate a random number in Uipath (2021) YouTube. Available at: https://www.youtube.com/watch?v=HTQDyRAZ31s&amp;t=73s (Accessed: 19 October 2023). 
+5.Uipath read excel &amp; enter the data into web form uipath RPA tutorial how to do automate google forms (2022) YouTube. Available at: https://www.youtube.com/watch?v=1JxR96chSzk&amp;t=477s (Accessed: 19 October 2023).
+6. Fill data from Excel on Web Form - Uipath RPA Tutorial (2021) YouTube. Available at: https://www.youtube.com/watch?v=vnhWtP0Z5uQ (Accessed: 19 October 2023).
+7. Uipath Studio: Your first process automation (2020) YouTube. Available at: https://www.youtube.com/watch?v=OyQAhrcBr9U (Accessed: 19 October 2023).
+8. Automating complex excel processes and data table through RPA #UIP (2017) YouTube. Available at: https://www.youtube.com/watch?v=Ed3hYpKofts (Accessed: 19 October 2023).
+9. Uipath - how to add data to a new Excel column - full tutorial (2020) YouTube. Available at: https://www.youtube.com/watch?v=DTKyWrgDDDg (Accessed: 19 October 2023).
+10. Uipath tutorial day 1 : Introduction to uipath (2018) YouTube. Available at: https://www.youtube.com/watch?v=AIV7NJ1giEQ&amp;list=PLZVSOFwGx4zCM6aramn0opSVWDNVBL-PP (Accessed: 19 October 2023). 
 
 ![NWU](https://github.com/Madzivhandila/CMPG-323-Project-4---30332338/assets/75025282/95f091f2-987a-44c4-9d42-772ea226f896)
 
