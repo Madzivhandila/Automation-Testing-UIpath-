@@ -64,5 +64,26 @@ Non-functional requirements encompass aspects of a solution that impact the syst
 - **Deploy Solution**
   - Publish the UiPath solution to the UiPath Orchestrator.
 **************************************************************************************************
+### Achievements
+**************************************************************************************************
+1. Build your first Power Automate for desktop flow
+
+2. Introduction to UiPath Document Understanding
+
+3. Advanced UI Automation in Studio
+
+
+
+
+
+### Referancing
+**************************************************************************************************
+
+
+
+
+
+
+
 ![NWU](https://github.com/Madzivhandila/CMPG-323-Project-4---30332338/assets/75025282/95f091f2-987a-44c4-9d42-772ea226f896)
 
