@@ -72,7 +72,7 @@ Non-functional requirements encompass aspects of a solution that impact the syst
 
 3. Advanced UI Automation in Studio
 
-4.Coded Automation for Testing
+4. Coded Automation for Testing
 
 
 
